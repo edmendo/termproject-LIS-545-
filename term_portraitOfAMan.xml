@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <dc:creator>Pett, Daniel</dc:creator>
+        <dc:issued>2017-07-03</dc:issued>
+        <dc:description>Dataset consisting of images created for the purpose of generating a 3D model of 'Portrait Bust of a Man', a bronze bust of the Augustan period of the Roman Empire, now housed in the Cleveland Museum of Art</dc:description>
+        <dc:extent>178MB</dc:extent>
+        <dc:extent>81 images</dc:extent>
+        <dc:format>JPEG</dc:format>
+        <dc:publisher>figshare</dc:publisher>
+        <dc:source>https://doi.org/10.6084/m9.figshare.5234890.v1</dc:source>
+    </record>
+    <record>
+        <dc:creator>Pett, Daniel</dc:creator>
+        <dc:issued>2017-07-03</dc:issued>
+        <dc:description>Dataset consisting of monochrome masks created for the purpose of generating a 3D model of 'Portrait Bust of a Man', a bronze bust of the Augustan period of the Roman Empire, now housed in the Cleveland Museum of Art</dc:description>
+        <dc:extent>2.39MB</dc:extent>
+        <dc:extent>85 images</dc:extent>
+        <dc:format>PNG</dc:format>
+        <dc:publisher>figshare</dc:publisher>
+        <dc:source>https://doi.org/10.6084/m9.figshare.5234890.v1</dc:source>
+    </record>
+    <record>
+        <dc:creator>Pett, Daniel</dc:creator>
+        <dc:issued>2017-07-03</dc:issued>
+        <dc:title>portraitOfAMan</dc:title>
+        <dc:description>3D model of 'Portrait Bust of a Man', a bronze bust of the Augustan period of the Roman Empire, now housed in the Cleveland Museum of Art</dc:description>
+        <dc:extent>18.6MB</dc:extent>
+        <dc:format>STL</dc:format>
+        <dc:requires>3D Systems CAD Software</dc:requires>
+        <dc:publisher>figshare</dc:publisher>
+        <dc:source>https://doi.org/10.6084/m9.figshare.5234890.v1</dc:source>
+    </record>
+    <record>
+        <dc:creator>Pett, Daniel</dc:creator>
+        <dc:issued>2017-07-03</dc:issued>
+        <dc:title>portraitOfAMan</dc:title>
+        <dc:description>3D model of 'Portrait Bust of a Man', a bronze bust of the Augustan period of the Roman Empire, now housed in the Cleveland Museum of Art</dc:description>
+        <dc:extent>38.1MB</dc:extent>
+        <dc:format>OBJ</dc:format>
+        <dc:requires>CAD Software</dc:requires>
+        <dc:publisher>figshare</dc:publisher>
+        <dc:source>https://doi.org/10.6084/m9.figshare.5234890.v1</dc:source>
+    </record>
+    <record>
+        <dc:creator>Pett, Daniel</dc:creator>
+        <dc:issued>2017-07-03</dc:issued>
+        <dc:title>portraitOfAMan</dc:title>
+        <dc:description>3D model of 'Portrait Bust of a Man', a bronze bust of the Augustan period of the Roman Empire, now housed in the Cleveland Museum of Art</dc:description>
+        <dc:extent>205 bytes</dc:extent>
+        <dc:format>MTL</dc:format>
+        <dc:requires>Alias/Wavefront</dc:requires>
+        <dc:publisher>figshare</dc:publisher>
+        <dc:source>https://doi.org/10.6084/m9.figshare.5234890.v1</dc:source>
+    </record>
+    <record>
+        <dc:creator>Pett, Daniel</dc:creator>
+        <dc:issued>2017-07-03</dc:issued>
+        <dc:description>Flattened image of 3D model of 'Portrait Bust of a Man', a bronze bust of the Augustan period of the Roman Empire, now housed in the Cleveland Museum of Art</dc:description>
+        <dc:extent>1.8MB</dc:extent>
+        <dc:format>JPEG</dc:format>
+        <dc:publisher>figshare</dc:publisher>
+        <dc:source>https://doi.org/10.6084/m9.figshare.5234890.v1</dc:source>       
+    </record>
+    <record>
+        <dc:creator>Pett, Daniel</dc:creator>
+        <dc:issued>2017-07-03</dc:issued>
+        <dc:title>README.md</dc:title>
+        <dc:description>README file describing a dataset consisting of 3D models, in addition to images and masks, of 'Portrait Bust of a Man', a bronze bust of the Augustan period of the Roman Empire, now housed in the Cleveland Museum of Art</dc:description>
+        <dc:extent>813 bytes</dc:extent>
+        <dc:format>MD</dc:format>
+        <dc:publisher>figshare</dc:publisher>
+        <dc:source>https://doi.org/10.6084/m9.figshare.5234890.v1</dc:source>
+    </record>
+    <record>
+        <dc:creator>Pett, Daniel</dc:creator>
+        <dc:issued>2017-07-03</dc:issued>
+        <dc:title>LICENSE.md</dc:title>
+        <dc:description>README file describing the licensing of a dataset consisting of 3D models, in addition to images and masks, of 'Portrait Bust of a Man', a bronze bust of the Augustan period of the Roman Empire, now housed in the Cleveland Museum of Art</dc:description>
+        <dc:extent>21KB</dc:extent>
+        <dc:format>MD</dc:format>
+        <dc:publisher>figshare</dc:publisher>
+        <dc:source>https://doi.org/10.6084/m9.figshare.5234890.v1</dc:source>
+    </record>
+</records>
