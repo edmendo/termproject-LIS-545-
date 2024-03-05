@@ -1,6 +1,6 @@
 The contents of this repository are as follows:
 
-Dataset: 
+Dataset:  
   -81 images of 'Portrait Bust of a Man'  
   -85 masks  of 'Portrait Bust of a Man'  
   -4 3D models of 'Portrait Bust of a Man'  
