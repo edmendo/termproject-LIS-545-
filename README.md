@@ -6,7 +6,7 @@ The contents of this repository are as follows:
   -4 3D models of 'Portrait Bust of a Man'  
   -2 README files  
 2. Structured Metadata file:  
-  -term_portraitOfAMan.xml  
+  -'term_portraitOfAMan.xml'  
 3. Final Report  
   
 The data itself can be found published here:  
