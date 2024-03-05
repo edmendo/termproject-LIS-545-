@@ -1,13 +1,12 @@
 The contents of this repository are as follows:
 
 Dataset: 
-  81 images of 'Portrait Bust of a Man',  
-  85 masks  of 'Portrait Bust of a Man',  
-  4 3D models of 'Portrait Bust of a Man',  
-  2 README files  
-Structured Metadata file:   
-  term_portraitOfAMan.xml  
-Final Report  
+  -81 images of 'Portrait Bust of a Man'  
+  -85 masks  of 'Portrait Bust of a Man'  
+  -4 3D models of 'Portrait Bust of a Man'  
+  -2 README files  
+  -Structured Metadata file: term_portraitOfAMan.xml  
+  -Final Report  
   
 The data itself can be found published here:  
 https://figshare.com/articles/dataset/3D_data_for_recreating_a_bronze_portrait_figure_from_Cleveland_Museum_of_Art/5234890  
